@@ -5,6 +5,7 @@ This project involves implementing an Realtime ETL pipeline that utilizes Coinge
 
 ## Architecture
 
+
 ## Business Problem: 
 The client, a cryptocurrency enthusiast and investor, wants to extract and analyze real-time data for the top 10 cryptocurrencies to gain actionable insights. This includes monitoring price trends, market capitalization, and trading volumes, which can aid in identifying investment opportunities, understanding market dynamics, and making data-driven decisions. The processed data will be stored for further analysis and visualization, helping the client track performance and predict future trends in the highly volatile crypto market.
 
