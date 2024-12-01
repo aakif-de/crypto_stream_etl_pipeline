@@ -1,0 +1,17 @@
+CREATE OR REPLACE TABLE `your_project_id.your_dataset_id.crypto_stream_tbl` (
+  id STRING,
+  name STRING,
+  symbol STRING,
+  current_price FLOAT64,
+  price_unit STRING,
+  market_cap STRING,
+  ath STRING,
+  atl STRING,
+  price_change_24h FLOAT64,
+  price_change_percentage_24h FLOAT64,
+  total_volume STRING,
+  high_24h STRING,
+  low_24h STRING,
+  total_supply STRING,
+  last_updated STRING
+);
