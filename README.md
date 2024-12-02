@@ -4,7 +4,7 @@
 This project involves implementing an Realtime ETL pipeline that utilizes Coingecko API and GCP Services. The pipeline extracts data from the Coingecko API, Ingest the data using Cloud Function and Pub/Sub; performs transformations using Dataflow. From there, the data is ingested into BigQuery for further downstream tasks, analysis and insights.
 
 ## Architecture
-![image](https://github.com/user-attachments/assets/adbec49f-4883-4fd2-b3b3-ee732ce4f6ba)
+![Animation_2](https://github.com/user-attachments/assets/e99bd27e-ece7-4e8a-aafe-15e3cde2b20b)
 
 ## Business Problem: 
 The client, a cryptocurrency enthusiast and investor, wants to extract and analyze real-time data for the top 10 cryptocurrencies to gain actionable insights. This includes monitoring price trends, market capitalization, and trading volumes, which can aid in identifying investment opportunities, understanding market dynamics, and making data-driven decisions. The processed data will be stored for further analysis and visualization, helping the client track performance and predict future trends in the highly volatile crypto market.
